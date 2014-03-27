@@ -16,3 +16,7 @@ port: 80
 hostname: '192.168.100.10'
 
 $ sudo grunt serve
+
+and check
+
+http://192.168.100.10
