@@ -9,11 +9,7 @@ $ vagrant up
 
 $ vagrant ssh
 
-$ vi Gruntfile.js
-
-port: 80  <= change
-
-hostname: '192.168.100.10' <= change
+$ cd /www/my-yo-project
 
 $ sudo grunt serve
 
