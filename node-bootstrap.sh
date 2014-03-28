@@ -16,3 +16,14 @@ apt-get install -y libfontconfig1
 sudo npm install -g yo
 sudo npm install -g generator-webapp
 
+echo ""
+echo ""
+echo ""
+echo "=========================================="
+echo "$ vagrant ssh"
+echo "$ cd /www/my-yo-project"
+echo "$ sudo grunt serve"
+echo ""
+echo ""
+echo "=========================================="
+echo "and check the page : http://192.168.100.10"
