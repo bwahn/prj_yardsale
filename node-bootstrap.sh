@@ -13,11 +13,6 @@ apt-get -y update
 apt-get install -y nodejs
 apt-get install -y libfontconfig1
 
-npm install -g yo
-npm install -g generator-webapp
-exit
-mkdir my-yo-project
-cd my-yo-project
-yo webapp
-
+sudo npm install -g yo
+sudo npm install -g generator-webapp
 
